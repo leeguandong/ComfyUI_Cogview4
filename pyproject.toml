@@ -1,0 +1,14 @@
+[project]
+name = "cogview4"
+description = "The latest DIT architecture-based image generation model from Zhipu that supports Chinese text generation."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/leeguandong/ComfyUI_Cogview4"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_Cogview4"
+Icon = ""
